@@ -6,6 +6,7 @@ public class mouseLook : MonoBehaviour {
 
 	
 	// Update is called once per frame
+    var hi;
 	void Update () {
         //Player mouse look.
         
