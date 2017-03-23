@@ -35,7 +35,7 @@ function Update () {
         //angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg - 90;
 	
   //Player to move vector directions.
-      
+      var hi;
 
 
         if (Input.GetKeyUp(KeyCode.LeftShift)) //dash
